@@ -1,0 +1,8 @@
+[submodule "YogiJogi_Frontend"]
+	path = YogiJogi_Frontend
+	url = https://github.com/Limgayoung/YogiJogi_Frontend.git
+	branch = main
+[submodule "YogiJogi_Backend"]
+	path = YogiJogi_Backend
+	url = https://github.com/Limgayoung/YogiJogi_Backend.git
+	branch = main
